@@ -19,4 +19,4 @@ A fun, web-based Rock Paper Scissors game with colorful emoji buttons and score 
 - JavaScript
 
 ## Author
-- MCA Student | Aspiring Full-Stack Developer
+- viveksingh018
